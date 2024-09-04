@@ -15,7 +15,7 @@ project/metals.sbt
 commitmsg.md
 worktrees/
 scrum/
-# worksheets/
+worksheets/
 
 
 # Added by Sbt
